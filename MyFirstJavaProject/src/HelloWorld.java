@@ -5,7 +5,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		byte cont;
-		byte numero=0;
+		byte numero=5;
 		System.out.println("Bienvenido al programa para calcular las tablas de multiplicar.");
 		System.out.println("Introduzca el numero deseado: ");
 		Scanner scanner = new Scanner(System.in);
