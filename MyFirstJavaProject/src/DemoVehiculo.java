@@ -1,11 +1,7 @@
 /* Un programa que usa la clase Vehiculo
  El archivo se llama DemoVehiculo.java
  */
-class Vehiculo {
-    int pasajeros;  //números de pasajeros
-    int capacidad;  //capacidad del combustible en galones
-    int mpg;        //combustible consumido en millas por galon
-}
+
 //Esta clase declara un objeto de tipo Vehiculo
 class DemoVehiculo {
     public static void main(String[] args) {
