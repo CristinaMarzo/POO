@@ -111,6 +111,7 @@ class Test3
  public static void main(String[] args)
  {
      Test3 object = new Test3();
+     System.out.println(object.a);
  }
 }
 
