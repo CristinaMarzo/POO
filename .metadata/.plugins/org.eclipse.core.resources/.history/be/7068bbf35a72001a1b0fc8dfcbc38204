@@ -1,0 +1,19 @@
+
+public class ConstructoresEnJavaConEjemplos {
+
+}
+
+class MiClase {
+    int x;
+    MiClase(){ //constructor. fija las x de todos los mi clase que haga a 10
+        x=10;
+    }
+}
+
+class ConstructorDemo {
+    public static void main(String[] args) {
+       MiClase t1= new MiClase();
+       MiClase t2= new MiClase();
+        System.out.println(t1.x + " - "+t2.x);
+    }
+}
