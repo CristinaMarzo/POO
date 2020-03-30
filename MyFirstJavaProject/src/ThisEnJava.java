@@ -52,7 +52,7 @@ class Potencia3 {
     int e;
     double valor;
     
-    Potencia3(double b, int exp){
+    Potencia3(double b, int e){
     this.b=b;
     this.e=e;
     valor=1;
